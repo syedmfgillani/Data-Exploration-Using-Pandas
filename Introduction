@@ -1,0 +1,4 @@
+# Data exploration Using Pandas
+In this projecct I analysed NBA results provided by FiveThirtyEight in a 17MB CSV file. Dataset source is https://raw.githubusercontent.com/fivethirtyeight/data/master/nba-elo/nbaallelo.csv
+
+The purpose of this case study is to explore and analyse the given dataset using Pandas library. This work is for practice purposes only.
